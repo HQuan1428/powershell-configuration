@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [About] (#about)
-- [Requirements] (#requirements)
-- [How to use] (#how to use)
-- [Screenshots] (#screenshots)
+- [About](#about)
+- [Requirements](#requirements)
+- [How to use](#how-to-use)
+- [Screenshots](#screenshots)
 
 ## About
 
