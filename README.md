@@ -25,7 +25,7 @@ This is a configuration of powershell in window
 
 ## How to use
 
-Watch my video tutorials:
+Watch video tutorial:
 
 - [How to set up Power prompt with Oh My Posh on Windows 11 - cre: @devaslife](https://www.youtube.com/watch?v=5-aK2_WwrmM)
 
