@@ -30,6 +30,10 @@ Set-Alias g git
 Set-Alias grep findstr
 Set-Alias tig 'C:\Program Files\Git\usr\bin\tig.exe'
 Set-Alias less 'C:\Program Files\Git\usr\bin\less.exe'
+Set-Alias -Name touch -Value New-Item
+Set-Alias -Name rm -Value Remove-Item
+
+
 function la {ls -Recurse}
 
 # Utilities
